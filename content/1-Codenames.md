@@ -70,9 +70,9 @@ Codenames: win or lose, it’s fun to figure out the clues.
 Be the first team to make contact with all of their agents!
 
 #### SETUP
-1. Log in to the site. 
-2. Choose team (red or blue) and role (each team has one Spymaster and rest are Operatives).
-3. The team that has one extra clue to guess goes first. 
+1. Log in to the site
+2. Choose team (red or blue) and role (each team has one Spymaster and rest are Operatives)
+3. The team that has one extra clue to guess goes first
 
 #### GAMEPLAY
 First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
@@ -80,7 +80,7 @@ First, `Spymaster` examines the board, then gives an one-word clue followed by a
 The clue must
 - Relate to word meaning 
   - Be a word in English language
-  - Not be a form or part of a word on any visible card. 
+  - Not be a form or part of a word on any visible card
   - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
 - 0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
 
@@ -98,6 +98,6 @@ Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their
 #### GAME END
 Gameplay continues until endgame condition is met:
 - First team to have all their words covered wins 
-- The team that contacts the assassin instantly loses. 
+- The team that contacts the assassin instantly loses
 
 
