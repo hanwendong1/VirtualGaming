@@ -70,11 +70,9 @@ Codenames: win or lose, it’s fun to figure out the clues.
 </div>
                                                                          
 <div style="text-align: center;">
-  <input type="button" value="button">  <input type="button" value="button">
-</div>                                                                         
-
 <a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
 <a class="btn btn-warning" href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9fdab552-f314-41d0-91c1-e37e4a7efae0" role="button">Official Game Rules</a>
+</div>                 
 
 #### Goal
 
