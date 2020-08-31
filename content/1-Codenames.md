@@ -75,28 +75,29 @@ Be the first team to make contact with all of their agents!
 3. The team that has one extra clue to guess goes first
 
 #### GAMEPLAY
-1. First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: Godzilla, 4
+First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: Godzilla, 4
 
 The clue must
 - Relate to word meaning 
 - Be a word in English language
 - Not be a form or part of a word on any visible card
 - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
-0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
+
+0 means no clues relate to it. Both 0 and ∞ allow unlimited guessing (unless wrong).
 
 {% capture text %}
 Can you find 3 cards that relate to the clue "MAPLE"?
 {% endcapture %}
-{% include card.md text=text header="An Example Clue" img="Codename_Example_Clue.PNG" %}
+{% include card.md text=text header="An Example Clue: MAPLE, 3" img="Codename_Example_Clue.PNG" %}
 
-2. Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that will occur:
+Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that will occur:
 - <span style="color:#FF0000;">Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping</span>
 - <span style="color:#0000FF;">The opponent’s color (e.g. blue) = card covered by opponent and turn ends</span>
-- <span style="color:#808080;">Bystander (beige color) = turn ends</span>
+- <span style="color:#808080;">Bystander (beige) = turn ends</span>
 - **Assassin (black) = game ends and that team loses**
 
 #### GAME END
-Gameplay continues until endgame condition is met:
+Gameplay continues until either endgame condition is met:
 - First team to have all their words covered wins 
 - The team that contacts the assassin instantly loses
 
