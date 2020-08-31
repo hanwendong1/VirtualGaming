@@ -82,7 +82,6 @@ The clue must
   - Be a word in English language
   - Not be a form or part of a word on any visible card. 
   - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
-0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
 
 {% capture text %}
 Can you find 3 cards that relate to the clue "MAPLE"?
