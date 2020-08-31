@@ -74,7 +74,7 @@ Be the first team to make contact with all of their agents!
 
 #### SETUP
 1. Log in to the site
-2. Choose team (red or blue) and role (one `Spymaster` and rest are `Operatives` on each team)
+2. Choose team (<span style="color:#FF0000;">red</span> or <span style="color:#0000FF;">blue</span>) and role (one `Spymaster` and rest are `Operatives` on each team)
 3. The team that has one extra clue to guess goes first
 
 #### GAMEPLAY
