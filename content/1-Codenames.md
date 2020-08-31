@@ -64,13 +64,20 @@ The teams compete to see who can make contact with all of their agents first. Sp
 
 Codenames: win or lose, it’s fun to figure out the clues.
 
+`{% raw %}{% include button.md text="Bootstrap Docs" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}{% endraw %}`
+
+{% include button.md text="Bootstrap Docs" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}
+
 ## How to Play
 
-### SETUP
+#### SETUP
 1. Log in to the site. 
 2. Choose team (red or blue) and role (each team has one Spymaster and rest are Operatives).
 3. The team that has one extra clue to guess goes first. 
-### GAMEPLAY
+`{% raw %}{% include modal.md button="Try Me" color="success" title="Example Modal" text="This is a modal, with little text." %}{% endraw %}`
+
+{% include modal.md button="Try Me" color="success" title="Example Modal" text="This is a modal, with little text." %}
+#### GAMEPLAY
 Spymaster examines the board, then gives a 1 word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
 The clue must
 Relate to word meaning 
