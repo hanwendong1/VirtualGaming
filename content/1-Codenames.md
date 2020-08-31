@@ -90,7 +90,7 @@ Can you find 3 cards that relate to the clue "MAPLE"?
 {% include card.md text=text header="An Example Clue" img="Codename_Example_Clue.PNG" %}
 
 Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞)
-- Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
+- *<span style="color:#0F7D00;">Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping </span>*
 - The opponent’s color (e.g. blue) = card covered by opponent and turn ends
 - Bystander (beige color) = turn ends
 - Assassin (black) = game ends and that team loses
