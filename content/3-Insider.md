@@ -1,5 +1,5 @@
 ---
-title: Library Catalog
+title: Insider
 nav: true
 ---
 
