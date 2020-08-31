@@ -75,25 +75,23 @@ Be the first team to make contact with all of their agents!
 3. The team that has one extra clue to guess goes first. 
 
 #### GAMEPLAY
-1. `Spymaster` examines the board, then gives [an one-word clue followed by a number](https://codenamesgame.com/), which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
+First, `Spymaster` examines the board, then gives [an one-word clue followed by a number](https://codenamesgame.com/), which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
 
-   The clue must
+The clue must
 - Relate to word meaning 
   - Be a word in English language
   - Not be a form or part of a word on any visible card. 
   - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
 - 0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
 
-```{% raw %}
 {% capture text %}
 1. Can add more complex text using markdown.
 2. Use a Liquid capture to create the text.
 3. It magically becomes a [Bootstrap Card](https://getbootstrap.com/docs/4.1/components/card/).
 {% endcapture %}
-{% include card.md text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}{% endraw %}
-```
+{% include card.md text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}
 
-2. `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞)
+Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞)
 - Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
 - The opponent’s color (e.g. blue) = card covered by opponent and turn ends
 - Bystander (beige color) = turn ends
