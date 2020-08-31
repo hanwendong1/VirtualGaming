@@ -75,7 +75,7 @@ Be the first team to make contact with all of their agents!
 3. The team that has one extra clue to guess goes first. 
 
 #### GAMEPLAY
-First, `Spymaster` examines the board, then gives [an one-word clue followed by a number](https://codenamesgame.com/), which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
+First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
 
 The clue must
 - Relate to word meaning 
