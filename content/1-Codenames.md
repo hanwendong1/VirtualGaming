@@ -57,3 +57,35 @@ nav: true
    <p>
    </p>
 </html>
+## Description
+The two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+
+The teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+
+Codenames: win or lose, it’s fun to figure out the clues.
+
+## How to Play
+
+### SETUP
+1. Log in to the site. 
+2. Choose team (red or blue) and role (each team has one Spymaster and rest are Operatives).
+3. The team that has one extra clue to guess goes first. 
+### GAMEPLAY
+Spymaster examines the board, then gives a 1 word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
+The clue must
+Relate to word meaning 
+Be a word in English language
+Not be a form or part of a word on any visible card. 
+Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
+0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
+Operatives discuss amongst themselves; inform the Spymaster their guesses (one at a time) up to 1 more than the number clue provided (if not 0 and ∞)
+Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
+The opponent’s color (e.g. blue) = card covered by opponent and turn ends
+Bystander (beige color) = turn ends
+Assassin (black) = game ends and that team loses
+GAME END
+Gameplay continues until 
+First team to have all their words covered wins 
+The team that contacts the assassin instantly loses. 
+
+
