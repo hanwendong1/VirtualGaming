@@ -3,7 +3,8 @@ title: Codenames
 nav: true
 --- 
 
-{% include figure.html img="Codenames.jpg" alt="Codenames box cover" caption="Give your team clever one-word clues so that they can spot their agents in the field. (Description from BoardGameGeek)" caption="Give your team clever one-word clues so that they can spot their agents in the field. (Description from BoardGameGeek)" width="75%" %}
+{% include figure.html img="Codenames.jpg" alt="Codenames box cover" caption="Give your team clever one-word clues so that they can spot their agents in the field. 
+(Description from BoardGameGeek)" width="75%" %}
 
 #### Overview
 <html>
@@ -78,7 +79,7 @@ Be the first team to make contact with all of their agents!
 3. The team that has one extra clue to guess goes first
 
 #### GAMEPLAY
-First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞): e.g.: Godzilla, 4
+First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞).
 
 The clue must
 - Relate to word meaning 
