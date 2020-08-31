@@ -87,7 +87,7 @@ The clue must
 {% capture text %}
 Can you find 3 cards that relate to the clue "MAPLE"?
 {% endcapture %}
-{% include card.md text=text header="An Example Clue" img="Codename_Example_Clue.png" %}
+{% include card.md text=text header="An Example Clue" img="Codename_Example_Clue.PNG" %}
 
 Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞)
 - Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
