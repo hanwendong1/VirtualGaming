@@ -65,14 +65,12 @@ Codenames: win or lose, it’s fun to figure out the clues.
 
 {% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="warning" %}
 
-<div style="text-align: center; border: 1px solid">
+<div style="text-align: center;>
   <a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
 </div>
 
 <a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
-
-<button type="button" class="btn btn-primary" color="warning">Primary</button>
-<button type="button" class="btn btn-secondary" color="warning">Secondary</button>
+<a class="btn btn-warning" href="https://s3.amazonaws.com/geekdo-files.com/bgg147917?response-content-disposition=inline%3B%20filename%3D%22CN_rules_ENG_web.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20200831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200831T201116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=92c89ad4767ebe293ee45c7f9ed0962939f41438e9ffbd27866350dc60444b68" role="button">Official Game Rules</a>
 
 #### Goal
 
@@ -109,6 +107,3 @@ Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their
 Gameplay continues until either endgame condition is met:
 - First team to have all their words covered wins 
 - The team that contacts the assassin instantly loses
-
-{% include button.md text="Official Game Rules" link="https://s3.amazonaws.com/geekdo-files.com/bgg147917?response-content-disposition=inline%3B%20filename%3D%22CN_rules_ENG_web.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20200831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200831T201116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=92c89ad4767ebe293ee45c7f9ed0962939f41438e9ffbd27866350dc60444b68" color="warning" %}
-
