@@ -65,8 +65,10 @@ Codenames: win or lose, it’s fun to figure out the clues.
 
 {% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="warning" %}
 
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
+<a class="btn btn-primary" href="https://codenames.game/" role="button">Link</a>
+
+<button type="button" class="btn btn-primary" color="warning">Primary</button>
+<button type="button" class="btn btn-secondary" color="warning">Secondary</button>
 
 #### Goal
 
