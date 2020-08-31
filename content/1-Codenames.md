@@ -64,7 +64,11 @@ The teams compete to see who can make contact with all of their agents first. Sp
 
 Codenames: win or lose, it’s fun to figure out the clues.
 
-{% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="Warning" %}
+{% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="warning" %}
+
+## Goal
+
+Be the first team to make contact with all of their agents!
 
 ## How to Play
 
@@ -83,14 +87,14 @@ The clue must
   - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
 - 0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
 
-`Operatives` discuss amongst themselves; inform the Spymaster their guesses (one at a time) up to 1 more than the number clue provided (if not 0 and ∞)
-Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
+`Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to 1 more than the number clue provided (if not 0 and ∞)
+- Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
 - The opponent’s color (e.g. blue) = card covered by opponent and turn ends
 - Bystander (beige color) = turn ends
 - Assassin (black) = game ends and that team loses
 
 #### GAME END
-Gameplay continues until 
+Gameplay continues until endgame condition is met:
 - First team to have all their words covered wins 
 - The team that contacts the assassin instantly loses. 
 
