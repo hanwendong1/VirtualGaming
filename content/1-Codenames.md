@@ -77,11 +77,6 @@ Be the first team to make contact with all of their agents!
 #### GAMEPLAY
 1. `Spymaster` examines the board, then gives [an one-word clue followed by a number](https://codenamesgame.com/), which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
 
-The clue must
-- Relate to word meaning 
-  - Be a word in English language
-  - Not be a form or part of a word on any visible card. 
-  - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
 
 {% capture text %}
 Can you find 3 cards that relate to the clue "MAPLE"?
