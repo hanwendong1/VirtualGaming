@@ -101,4 +101,5 @@ Gameplay continues until either endgame condition is met:
 - First team to have all their words covered wins 
 - The team that contacts the assassin instantly loses
 
+{% include button.md text="Official Game Rules" link="https://s3.amazonaws.com/geekdo-files.com/bgg147917?response-content-disposition=inline%3B%20filename%3D%22CN_rules_ENG_web.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20200831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200831T185034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=49ed9e515a0daca7d14941dcb84ff547ee1091c580752a056d20b762f00217e8" color="warning" %}
 
