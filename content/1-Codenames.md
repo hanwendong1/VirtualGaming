@@ -59,7 +59,7 @@ nav: true
 #### Description
 The two rival `spymasters` know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
 
-The teams compete to see who can make contact with all of their agents first. `Spymasters` give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+The teams compete to see who can make contact with all of their agents first. `Spymasters` give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the `assassin`.
 
 Codenames: win or lose, it’s fun to figure out the clues.
 
@@ -101,5 +101,5 @@ Gameplay continues until either endgame condition is met:
 - First team to have all their words covered wins 
 - The team that contacts the assassin instantly loses
 
-{% include button.md text="Official Game Rules" link="https://s3.amazonaws.com/geekdo-files.com/bgg147917?response-content-disposition=inline%3B%20filename%3D%22CN_rules_ENG_web.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20200831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200831T185034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=49ed9e515a0daca7d14941dcb84ff547ee1091c580752a056d20b762f00217e8" color="warning" %}
+{% include button.md text="Official Game Rules" link="https://s3.amazonaws.com/geekdo-files.com/bgg147917?response-content-disposition=inline%3B%20filename%3D%22CN_rules_ENG_web.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20200831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200831T201116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=92c89ad4767ebe293ee45c7f9ed0962939f41438e9ffbd27866350dc60444b68" color="warning" %}
 
