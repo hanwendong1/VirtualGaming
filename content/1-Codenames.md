@@ -65,7 +65,7 @@ Codenames: win or lose, it’s fun to figure out the clues.
 
 {% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="warning" %}
 
-<div style="width:100%; height:100%; border: 1px solid">
+<div style="text-align: center; border: 1px solid">
   <a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
 </div>
 
