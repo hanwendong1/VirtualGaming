@@ -87,6 +87,14 @@ The clue must
   - Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
 - 0 means no clues relate to it. Both allow unlimited guessing (unless wrong)
 
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="Codename_Example_Clue" alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
+
 2. `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞)
 - Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping
 - The opponent’s color (e.g. blue) = card covered by opponent and turn ends
