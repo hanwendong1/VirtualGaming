@@ -64,7 +64,7 @@ The teams compete to see who can make contact with all of their agents first. Sp
 
 Codenames: win or lose, it’s fun to figure out the clues.
 
-{% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="alert" %}
+{% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="Warning" %}
 
 ## How to Play
 
@@ -74,7 +74,7 @@ Codenames: win or lose, it’s fun to figure out the clues.
 3. The team that has one extra clue to guess goes first. 
 
 #### GAMEPLAY
-`Spymaster` examines the board, then gives [an one word clue followed by a number](https://codenamesgame.com/), which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
+`Spymaster` examines the board, then gives [an one-word clue followed by a number](https://codenamesgame.com/), which relates to the number of associated cards (exception: 0 and ∞): e.g.: library, 5
 
 The clue must
 - Relate to word meaning 
