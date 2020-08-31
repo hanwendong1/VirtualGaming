@@ -65,6 +65,9 @@ Codenames: win or lose, it’s fun to figure out the clues.
 
 {% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="warning" %}
 
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+
 #### Goal
 
 Be the first team to make contact with all of their agents!
