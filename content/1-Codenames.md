@@ -5,8 +5,7 @@ nav: true
 
 {% include figure.html img="Codenames.jpg" alt="Codenames box cover" caption="Give your team clever one-word clues so that they can spot their agents in the field. (Description from BoardGameGeek)" width="75%" %}
 
-## Overview
- 
+#### Overview
 <html>
    <head>
       <style>
@@ -57,7 +56,7 @@ nav: true
    <p>
    </p>
 </html>
-## Description
+#### Description
 The two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
 
 The teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
@@ -66,11 +65,9 @@ Codenames: win or lose, it’s fun to figure out the clues.
 
 {% include button.md text="Play Codenames Online!" link="https://codenames.game/" color="warning" %}
 
-## Goal
+#### Goal
 
 Be the first team to make contact with all of their agents!
-
-## How to Play
 
 #### SETUP
 1. Log in to the site. 
