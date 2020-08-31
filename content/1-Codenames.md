@@ -68,9 +68,13 @@ Codenames: win or lose, it’s fun to figure out the clues.
 <div style="text-align: center;>
   <a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
 </div>
+                                                                         
+<div style="text-align: center;">
+  <input type="button" value="button">
+</div>                                                                         
 
 <a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
-<a class="btn btn-warning" href="https://s3.amazonaws.com/geekdo-files.com/bgg147917?response-content-disposition=inline%3B%20filename%3D%22CN_rules_ENG_web.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20200831%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200831T201116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=92c89ad4767ebe293ee45c7f9ed0962939f41438e9ffbd27866350dc60444b68" role="button">Official Game Rules</a>
+<a class="btn btn-warning" href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9fdab552-f314-41d0-91c1-e37e4a7efae0" role="button">Official Game Rules</a>
 
 #### Goal
 
