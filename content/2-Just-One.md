@@ -89,20 +89,76 @@ Can you guess what the mystry word is?
 
 
 ##### INVALID CLUES
-- Deliberately spelling a word incorrectly – Spelling ‘shurt’ for shirt.
-- Substituting a foreign word with the same meaning as the word in question – using amor to describe love.
-- Using a word from the same family as the mystery word – Princely when the mystery word is prince.
-- Completely made up words – Sweet'ing to describe cake.
-- A phonetically identical word to the mystery word – A clue cannot be knight if the mystery word is night.
+- Deliberately spelling a word incorrectly – Spelling ‘shurt’ for shirt
+- Written in a foreign language – using buisson to describe bush
+- Using a word from the same family as the mystery word – princess when the mystery word is prince
+- Completely made up words – Sweet'ing to describe cake
+- A phonetically identical word – A clue cannot be knight if the mystery word is night
 
 ##### IDENTICAL CLUES
-- Identical
-  - Cow, cow, COW
-- Same derivation
-  - Cow, cows
-  - Philosophy, philosopher 
+- Identical - Cow, cow, COW
+- Same derivation - Cow, cows; Philosophy, philosopher 
+
+Invalid and identical clues will be canceled. The active player tries to guess the mystery word, but they are allowed only ***one guess***. The team scores one point if the active player correctly guesses the Mystery word. Then another player becomes the new active player and a new turn begins.
 
 #### GAME END
-Gameplay continues until either endgame condition is met:
-- First team to have all their words covered wins 
-- The team that contacts the assassin instantly loses
+The game ends after 13 rounds. Count the number of successfully guessed cards and compare your total with this table to get your score:
+
+<html>
+   <head>
+      <style>
+         table {width: 100%;}
+         table, td, th {
+            border-collapse: collapse;
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+         
+         th {            
+            style="text-align:Center"
+            border: 1px solid black;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            background-color: #f1b300;
+            color: white;
+            }
+      </style>
+   </head>
+   <body>
+      <table>
+         <tr>
+            <th style="background-color: #f1b300; color: white; text-align:Center">SUCCESSFUL CARDS</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">SCORE</th>
+         </tr>
+         <tr>
+            <th style="text-align:Center">13</th>
+            <td style="text-align:Left">Perfect score! Can you do it again?</td>
+         </tr>
+         <tr>
+            <th style="text-align:Center">12</th>
+            <td style="text-align:Left">Incredible! Your friends must be impressed!</td>
+         </tr>
+         <tr>
+            <th style="text-align:Center">11</th>
+            <td style="text-align:Left">Awesome! That’s a score worth celebrating!</td>
+         </tr>
+          <tr>
+            <th style="text-align:Center">9-10</th>
+            <td style="text-align:Left">Wow, not bad at all!</td>
+         </tr>
+         <tr>
+            <th style="text-align:Center">7-8</th>
+            <td style="text-align:Left">You’re in the average. Can you do better?</td>
+         </tr>         
+         <tr>
+            <th style="text-align:Center">4-6</th>
+            <td style="text-align:Left">That’s a good start. Try again!</td>
+         </tr>
+         <tr>
+            <th style="text-align:Center">0-3</th>
+            <td style="text-align:Left">Try again, and again, and again.</td>
+         </tr>
+      </table>
+   </body>
+   <p>
+   </p>
+</html>
