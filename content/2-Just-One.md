@@ -54,11 +54,13 @@ nav: true
    </p>
 </html>
 #### Description
-The two rival `spymasters` know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+Just One is a cooperative party game. You all play together to get the best score!
 
-The teams compete to see who can make contact with all of their agents first. `Spymasters` give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the `assassin`.
+Together, make one of the players – the active player – guess a Mystery word by secretly writing a clue. 
 
-Codenames: win or lose, it’s fun to figure out the clues.
+Choose your clue without coordinating with each other and be original so as not to write the same clue as another player, as all identical clues will be canceled before the active player gets to see them.
+
+At the end of the game, tally your score based on the number of Mystery words found.
 
 <div style="text-align: center;">
 <a class="btn btn-warning" href="https://oneword.games/" role="button">Play Just One Online!</a>
@@ -71,30 +73,34 @@ We work as a team to get the best score!
 
 #### SETUP
 1. Log in to the site
-2. Choose team (<span style="color:#FF0000;">red</span> or <span style="color:#0000FF;">blue</span>) and role (one `Spymaster` and rest are `Operatives` on each team)
-3. The team that has one extra clue to guess goes first
+2. Click `Guest account`, then enter a player name 
+3. Click the open room that was just created
 
 #### GAMEPLAY
-First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞).
+A mystery word will be randomly chosen for the active player to guess. All other palyers, without communicating with each other and without writes one clue that is composed of a ***single word***.
+
+{% capture text %}Note: a number (007), an acronym (SMS), an onomatopoeia (meow), or a special character ($) are all considered to be words.
+{% endcapture %} {% include alert.md text=text color="warning" %}
 
 {% capture text %}
 Can you guess what the mystry word is?
 {% endcapture %}
 {% include card.md text=text header="Example clues to guess the mystry word" img="JO_EN01_Content01.png" %}
 
-The clue must
-- Relate to word meaning 
-- Be a word in English language
-- Not be a form or part of a word on any visible card
-- Optional variant: Compound/hyphenated words, proper names, abbreviations, acronyms, homonyms, and rhymed words
+<dl>
+  <dt>INVALID CLUES</dt>
+     <dd>Deliberately spelling a word incorrectly – Spelling ‘shurt’ for shirt.</dd>
+     <dd>Substituting a foreign word with the same meaning as the word in question – using amor to describe love.</dd>
+     <dd>Using a word from the same family as the mystery word – Princely when the mystery word is prince.</dd>
+     <dd>Completely made up words – Sweet'ing to describe cake.</dd>
+     <dd>A phonetically identical word to the mystery word – A clue cannot be knight if the mystery word is night.</dd>
+  <dt>IDENTICAL CLUES</dt>
+     <dd>Identical</dd>
+        <dd>- Cow, cow, COW</dd>
+     <dd>Same derivation</dd>
+Cow, cows
+Philosophy, philosopher 
 
-0 means no clues relate to it. Both 0 and ∞ allow unlimited guessing (unless wrong).
-
-Then, `Operatives` discuss amongst themselves, then inform the `Spymaster` their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that will occur:
-- <span style="color:#FF0000;">Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping</span>
-- <span style="color:#0000FF;">The opponent’s color (e.g. blue) = card covered by opponent and turn ends</span>
-- <span style="color:#808080;">Bystander (beige) = turn ends</span>
-- **Assassin (black) = game ends and that team loses**
 
 #### GAME END
 Gameplay continues until either endgame condition is met:
