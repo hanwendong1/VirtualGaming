@@ -46,7 +46,7 @@ nav: true
          </tr>
           <tr>
             <td style="text-align:Left">Mechanics:</td>
-            <td style="text-align:Left">words association, deduction, team play</td>
+            <td style="text-align:Left">Words Association, Deduction, Team Play</td>
          </tr>
       </table>
    </body>
