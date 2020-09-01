@@ -70,10 +70,10 @@ To find the secret word!
 #### SETUP
 1. Log in to the site
 2. Enter a player name 
-3. Roles are assigned randomly: 1 Master, 1 Insider, rest are Commons, but only the Master and the Insider know the secret word.
+3. Roles are assigned randomly: 1 Master, 1 Insider, rest are Commons, but only the Master and the Insider know the secret word
 
 #### GAMEPLAY
-The game begins with a quiz. Ask the Master who knows the current theme questions! He/she can only answer "Yes", "No" or "I don't know".
+The game begins with a five-minute timer starting its countdown. The Master and the Insider are given the secret word. Ask the Master who knows the current theme questions! He/she can only answer "Yes", "No" or "I don't know".
 
 {% capture text %}
 "Is it an animal?" - "No"
