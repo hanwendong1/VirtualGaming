@@ -45,7 +45,7 @@ nav: true
          </tr>
           <tr>
             <td style="text-align:Left">Mechanics:</td>
-            <td style="text-align:Left">Cooperative Game, Team-Based Game, Voting</td>
+            <td style="text-align:Left">Cooperative Game, Team Play, Voting</td>
          </tr>
       </table>
    </body>
