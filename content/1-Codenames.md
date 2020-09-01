@@ -98,13 +98,7 @@ Next, Operatives discuss amongst themselves, then inform their team's Spymaster 
 
 #### GAME END
 Gameplay continues until endgame condition is met when:
-
-Either
-
-- First team to have all their words covered wins 
-
-Or
-
+- First team to have all their words covered wins; or
 - The team that contacts the assassin instantly loses
 
 Codenames is often played with several rounds, and each round's score will be tallied and counts toward the teams' final scores.
