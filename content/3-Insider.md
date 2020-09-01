@@ -53,7 +53,11 @@ nav: true
    </p>
 </html>
 #### Description
-"Insider“ combines two fun components: finding the answer to a quiz and revealing the Insider. While communicating to others you have to find the right answers to a quiz and also find the "Insider" that is manipulating the discussion. The Insider will do everything to hide their identity while misleading the others.
+"Insider“ combines two fun components: finding the answer to a quiz and revealing the Insider. 
+
+While communicating to others you have to find the right answers to a quiz and also find the "Insider" that is manipulating the discussion. 
+
+The Insider will do everything to hide their identity while misleading the others.
 
 <div style="text-align: center;">
 <a class="btn btn-warning" href="https://insider-online.herokuapp.com/" role="button">Play Insider Online!</a>
