@@ -77,7 +77,9 @@ The game begins with a quiz. Ask the Master who knows the current theme question
 
 {% capture text %}
 "Is it an animal?" - "No"
+
 "Was it existent 100 years ago?" - "Yes"
+
 "Can I buy it at the supermarket?" - "No"
 {% endcapture %}
 {% include card.md text=text header="Example questions" img="insider_example.jpg" %}
