@@ -87,20 +87,20 @@ Can you guess what the mystry word is?
 {% endcapture %}
 {% include card.md text=text header="Example clues to guess the mystry word" img="JO_EN01_Content01.png" %}
 
-<dl>
-  <dt>INVALID CLUES</dt>
-     <dd>Deliberately spelling a word incorrectly – Spelling ‘shurt’ for shirt.</dd>
-     <dd>Substituting a foreign word with the same meaning as the word in question – using amor to describe love.</dd>
-     <dd>Using a word from the same family as the mystery word – Princely when the mystery word is prince.</dd>
-     <dd>Completely made up words – Sweet'ing to describe cake.</dd>
-     <dd>A phonetically identical word to the mystery word – A clue cannot be knight if the mystery word is night.</dd>
-  <dt>IDENTICAL CLUES</dt>
-     <dd>Identical</dd>
-        <dd>- Cow, cow, COW</dd>
-     <dd>Same derivation</dd>
-Cow, cows
-Philosophy, philosopher 
 
+##### INVALID CLUES
+- Deliberately spelling a word incorrectly – Spelling ‘shurt’ for shirt.
+- Substituting a foreign word with the same meaning as the word in question – using amor to describe love.
+- Using a word from the same family as the mystery word – Princely when the mystery word is prince.
+- Completely made up words – Sweet'ing to describe cake.
+- A phonetically identical word to the mystery word – A clue cannot be knight if the mystery word is night.
+
+##### IDENTICAL CLUES
+- Identical
+  - Cow, cow, COW
+- Same derivation
+  - Cow, cows
+  - Philosophy, philosopher 
 
 #### GAME END
 Gameplay continues until either endgame condition is met:
