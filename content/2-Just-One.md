@@ -78,9 +78,9 @@ We work as a team to get the best score!
 First, `Spymaster` examines the board, then gives an one-word clue followed by a number, which relates to the number of associated cards (exception: 0 and ∞).
 
 {% capture text %}
-Can you find 3 cards that relate to the clue "MAPLE"?
+Can you guess what the mystry word is?
 {% endcapture %}
-{% include card.md text=text header="An Example Clue: MAPLE, 3" img="Codename_Example_Clue.PNG" %}
+{% include card.md text=text header="Example clues to guess the mystry word" img="JO_EN01_Content01.png" %}
 
 The clue must
 - Relate to word meaning 
