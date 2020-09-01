@@ -92,7 +92,7 @@ The players have to find the answer by asking many questions. They only have 5 m
 #### GAME END
 The game ends if the answer is not found, then everyone loses. 
 
-If the answer is found, however, then the timer is flipped. This elapsed time is now used to try to identify the Insider. Everyone (including Master) discusses and tries to find the insider among them. Everyone votes for the person they think the player who guessed the word is the Insider or not. Master decides the tiebreaker.
+If the answer is found, however, then the timer is flipped. This elapsed time is now used to try to identify the Insider. Everyone (including the Master) discusses and tries to find the insider among them. Everyone votes for the person they think the player who guessed the word is the Insider or not. Master decides the tiebreaker.
 
 This can have four possible outcomes:
 - Majority thumbs up
@@ -102,8 +102,7 @@ This can have four possible outcomes:
   - If the guesser is Insider, Insider wins. 
   - If the guesser isn't Insider, a second voting occurs.
 
-SECOND VOTING
-Vote for the person who players think the Insider is. The Master decides the tiebreaker.
+Second voting: Vote for the person who players think the Insider is. The Master decides the tiebreaker.
 This can have two possible outcomes:
 - If the Insider is accused, Master and Commons win.  
 - If the Insider is not accused, Insider wins.  
