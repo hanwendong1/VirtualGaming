@@ -45,10 +45,6 @@ nav: true
             <td style="text-align:Left">15 min</td>
          </tr>
           <tr>
-            <td style="text-align:Left">Theme:</td>
-            <td style="text-align:Left">spies, agents, revealing secret identities</td>
-         </tr>
-          <tr>
             <td style="text-align:Left">Mechanics:</td>
             <td style="text-align:Left">words association, deduction, team play</td>
          </tr>
