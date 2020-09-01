@@ -77,7 +77,7 @@ To find the secret word!
 3. Roles are assigned randomly: 1 Master, 1 Insider, rest are Commons, but only the Master and the Insider know the secret word
 
 #### GAMEPLAY
-The game begins with a five-minute timer starting its countdown. The Master and the Insider are given the secret word. Ask the Master who knows the current theme questions! He/she can only answer "Yes", "No" or "I don't know".
+The game begins with a five-minute timer starting its countdown. The Master and the Insider are given the secret word. Ask the Master who knows the current theme questions! He/she can only answer "Yes", "No", or "I don't know".
 
 {% capture text %}
 "Is it an animal?" - "No"
@@ -88,9 +88,9 @@ The game begins with a five-minute timer starting its countdown. The Master and 
 {% endcapture %}
 {% include card.md text=text header="Example questions" img="insider_example.jpg" %}
 
-The players have to find the answer by asking many questions. They only have 5 minutes to find it though. If they don't find the right answer in that time, everyone will lose! 
+The players have to find the answer by asking many questions. Any player can ask any number of questions. They only have 5 minutes to find it though. 
 
-The quiz is not easy, but the players find the answer most of the time anyway, which is because there is one Insider among them who knows the right answer. The Insider tries to stay incognito and controlls the others asking questions that will help them to get closer to the right answer. If someone notices who he/she is, he/she will lose, so it is very important to stay unrecognized.
+The Insider tries to stay incognito and controlls the others asking questions that will help them to get closer to the right answer. If someone notices who he/she is, he/she will lose, so it is very important to stay unrecognized.
 
 {% capture text %}Tip for the Insider: You know the answer but you don't want to reveal yourself, so use your knowledge to subtly guide the conversation with the right questions without being too obvious about it.
 {% endcapture %} {% include alert.md text=text color="warning" %}
