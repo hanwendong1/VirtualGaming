@@ -90,15 +90,21 @@ The clue must
 
 0 means no clues relate to it. Both 0 and ∞ allow unlimited guessing (unless wrong).
 
-Then, Operatives discuss amongst themselves, then inform the Spymaster their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that will occur:
-- <span style="color:#FF0000;">Their team’s color (e.g. red) = got a clue and MAY keep guessing until number limit or stopping</span>
+Next, Operatives discuss amongst themselves, then inform their team's Spymaster their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that can occur based on the guesses:
+- <span style="color:#FF0000;">Their team’s color (e.g. red) = got a clue and keep guessing until number limit, or may chose to stop</span>
 - <span style="color:#0000FF;">The opponent’s color (e.g. blue) = card covered by opponent and turn ends</span>
 - <span style="color:#808080;">Bystander (beige) = turn ends</span>
 - **Assassin (black) = game ends and that team loses**
 
 #### GAME END
-Gameplay continues until either endgame condition is met:
+Gameplay continues until endgame condition is met when:
+
+Either
+
 - First team to have all their words covered wins 
+
+Or
+
 - The team that contacts the assassin instantly loses
 
 Codenames is often played with several rounds, and each round's score will be tallied and counts toward the teams' final scores.
