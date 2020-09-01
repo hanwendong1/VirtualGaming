@@ -53,7 +53,7 @@ nav: true
    </p>
 </html>
 #### Description
-"Insider“ combines two fun components: finding the answer to a quiz and revealing the Insider. 
+"Insider" combines two fun components: finding the answer to a quiz and revealing the Insider. 
 
 While communicating to others you have to find the right answers to a quiz and also find the "Insider" that is manipulating the discussion. 
 
