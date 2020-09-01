@@ -87,7 +87,6 @@ Can you guess what the mystry word is?
 {% endcapture %}
 {% include card.md text=text header="Example clues to guess the mystry word" img="JO_EN01_Content01.png" %}
 
-
 ##### INVALID CLUES
 - Deliberately spelling a word incorrectly – Spelling ‘shurt’ for shirt
 - Written in a foreign language – using buisson to describe bush
@@ -99,7 +98,7 @@ Can you guess what the mystry word is?
 - Identical - Cow, cow, COW
 - Same derivation - Cow, cows; Philosophy, philosopher 
 
-Invalid and identical clues will be canceled. The active player tries to guess the mystery word, but they are allowed only ***one guess***. The team scores one point if the active player correctly guesses the Mystery word. Then another player becomes the new active player and a new turn begins.
+Invalid and identical clues will be canceled. The active player tries to guess the mystery word, but they are allowed only ***one guess***. The team scores one point if the active player correctly guesses the mystery word. Then another player becomes the new active player and a new turn begins.
 
 #### GAME END
 The game ends after 13 rounds. Count the number of successfully guessed cards and compare your total with this table to get your score:
