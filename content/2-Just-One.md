@@ -134,27 +134,27 @@ The game ends after 13 rounds. Count the number of successfully guessed cards an
             <td style="text-align:Left">Perfect score! Can you do it again?</td>
          </tr>
          <tr>
-            <th style="text-align:Center">12</th>
+            <td style="text-align:Center">12</td>
             <td style="text-align:Left">Incredible! Your friends must be impressed!</td>
          </tr>
          <tr>
-            <th style="text-align:Center">11</th>
+            <td style="text-align:Center">11</td>
             <td style="text-align:Left">Awesome! That’s a score worth celebrating!</td>
          </tr>
           <tr>
-            <th style="text-align:Center">9-10</th>
+            <td style="text-align:Center">9-10</td>
             <td style="text-align:Left">Wow, not bad at all!</td>
          </tr>
          <tr>
-            <th style="text-align:Center">7-8</th>
+            <td style="text-align:Center">7-8</td>
             <td style="text-align:Left">You’re in the average. Can you do better?</td>
          </tr>         
          <tr>
-            <th style="text-align:Center">4-6</th>
+            <td style="text-align:Center">4-6</td>
             <td style="text-align:Left">That’s a good start. Try again!</td>
          </tr>
          <tr>
-            <th style="text-align:Center">0-3</th>
+            <td style="text-align:Center">0-3</td>
             <td style="text-align:Left">Try again, and again, and again.</td>
          </tr>
       </table>
