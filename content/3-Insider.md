@@ -88,7 +88,7 @@ The players have to find the answer by asking many questions. They only have 5 m
 {% endcapture %} {% include alert.md text=text color="warning" %}
 
 #### GAME END
-The game ends if the answer is not found, then everyone loses.
+The game ends if the answer is not found, then everyone loses. 
 
 If the answer is found, however, then the timer is flipped. This elapsed time is now used to try to identify the Insider. Everyone (including Master) discusses and tries to find the insider among them. Everyone votes for the person they think the player who guessed the word is the Insider or not. Master decides the tiebreaker.
 
