@@ -126,11 +126,11 @@ The game ends after 13 rounds. Count the number of successfully guessed cards an
    <body>
       <table>
          <tr>
-            <th style="background-color: #f1b300; color: white; text-align:Center">SUCCESSFUL CARDS</th>
-            <th style="background-color: #f1b300; color: white; text-align:Center">SCORE</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">SUCCESSFUL CARDS</th>
+            <th style="background-color: #f1b300; color: white; text-align:Left">SCORE</th>
          </tr>
          <tr>
-            <th style="text-align:Center">13</th>
+            <td style="text-align:Center">13</td>
             <td style="text-align:Left">Perfect score! Can you do it again?</td>
          </tr>
          <tr>
