@@ -69,7 +69,7 @@ At the end of the game, tally your score based on the number of Mystery words fo
 
 #### Goal
 
-We work as a team to get the best score!
+Work as a team to get the best score!
 
 #### SETUP
 1. Log in to the site
