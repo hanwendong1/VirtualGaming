@@ -80,7 +80,7 @@ The game begins with a quiz. Ask the Master who knows the current theme question
 "Was it existent 100 years ago?" - "Yes"
 "Can I buy it at the supermarket?" - "No"
 {% endcapture %}
-{% include card.md text=text header="Example questions" img="insider_example" %}
+{% include card.md text=text header="Example questions" img="insider_example.jpg" %}
 
 The players have to find the answer by asking many questions. They only have 5 minutes to find it though. If they don't find the right answer in that time, everyone will lose! The quiz is not easy, but the players find the answer most of the time anyway, which is because there is one insider among them who knows the right answer. He/she tries to stay incognito and controlls the others asking questions that will help them to get closer to the right answer. If someone notices who he/she is, he/she will lose, so it is very important to stay unrecognized.
 
