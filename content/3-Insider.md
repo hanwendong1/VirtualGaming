@@ -61,7 +61,7 @@ The Insider will do everything to hide their identity while misleading the other
 
 <div style="text-align: center;">
 <a class="btn btn-warning" href="https://insider-online.herokuapp.com/" role="button">Play Insider Online!</a>
-<a class="btn btn-warning" href="https://boardgamegeek.com/thread/1631598/rules" role="button">Official Game Rules</a>
+<a class="btn btn-warning" href="https://www.ultraboardgames.com/insider/game-rules.php" role="button">Official Game Rules</a>
 </div>                 
 
 #### Goal
@@ -82,13 +82,15 @@ The game begins with a five-minute timer starting its countdown. The Master and 
 {% capture text %}
 "Is it an animal?" - "No"
 
-"Was it existent 100 years ago?" - "Yes"
+"Was it existent 100 years ago?" - "I don't know"
 
-"Can I buy it at the supermarket?" - "No"
+"Can I buy it at the supermarket?" - "Yes"
 {% endcapture %}
 {% include card.md text=text header="Example questions" img="insider_example.jpg" %}
 
-The players have to find the answer by asking many questions. They only have 5 minutes to find it though. If they don't find the right answer in that time, everyone will lose! The quiz is not easy, but the players find the answer most of the time anyway, which is because there is one insider among them who knows the right answer. He/she tries to stay incognito and controlls the others asking questions that will help them to get closer to the right answer. If someone notices who he/she is, he/she will lose, so it is very important to stay unrecognized.
+The players have to find the answer by asking many questions. They only have 5 minutes to find it though. If they don't find the right answer in that time, everyone will lose! 
+
+The quiz is not easy, but the players find the answer most of the time anyway, which is because there is one Insider among them who knows the right answer. The Insider tries to stay incognito and controlls the others asking questions that will help them to get closer to the right answer. If someone notices who he/she is, he/she will lose, so it is very important to stay unrecognized.
 
 {% capture text %}Tip for the Insider: You know the answer but you don't want to reveal yourself, so use your knowledge to subtly guide the conversation with the right questions without being too obvious about it.
 {% endcapture %} {% include alert.md text=text color="warning" %}
