@@ -1,18 +1,9 @@
-# AVS463-f20
+# Virtual Gaming
 
 A Jekyll template for a simple website, with a [Bootstrap](https://getbootstrap.com/) theme, designed for hosting on [gh-pages](https://pages.github.com/).
 
 Works best for about 5 pages of instructions, plus an index page, all written in Markdown. 
 The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the sections.
-
-
-## Why?
-
-Rather than making slides for a library session, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and gh-pages makes this super easy.
-
-It is a better Open Educational Resource since anyone can fork and adapt!
 
 ## Details
 
