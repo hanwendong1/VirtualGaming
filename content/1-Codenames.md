@@ -90,7 +90,7 @@ The clue must
 
 0 means no clues relate to it. Both 0 and ∞ allow unlimited guessing (unless wrong).
 
-Next, Operatives discuss amongst themselves, then inform their team's Spymaster their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that can occur based on the guesses:
+Next, Operatives on that team discuss amongst themselves, then inform their team's Spymaster their guesses (one at a time) up to one more than the number clue provided (if not 0 and ∞). There are four possible scenarios that can occur based on the guesses:
 - <span style="color:#FF0000;">Their team’s color (e.g. red) = got a clue and keep guessing until number limit, or may chose to stop</span>
 - <span style="color:#0000FF;">The opponent’s color (e.g. blue) = card covered by opponent and turn ends</span>
 - <span style="color:#808080;">Bystander (beige) = turn ends</span>
