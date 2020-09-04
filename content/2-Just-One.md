@@ -77,7 +77,7 @@ Work as a team to get the best score!
 3. Click the open room that was just created
 
 #### GAMEPLAY
-A mystery word will be randomly chosen for the active player to guess. All other palyers, without communicating with each other and without writes one clue that is composed of a ***single word***.
+A mystery word will be randomly chosen for the active player to guess. All other palyers, without communicating with each other and write one clue that is composed of a ***single word***.
 
 {% capture text %}Note: a number (007), an acronym (SMS), an onomatopoeia (meow), or a special character ($) are all considered to be words.
 {% endcapture %} {% include alert.md text=text color="warning" %}
