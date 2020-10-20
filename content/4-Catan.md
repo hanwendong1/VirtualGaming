@@ -3,7 +3,7 @@ title: Catan
 nav: true
 ---
 
-{% include figure.html img="insider.jpg" alt="Insider box cover" caption="20 questions with a twist... a time limit and a sneaky insider who knows the answer! (Description from BoardGameGeek)" width="75%" %}
+{% include figure.html img="insider.jpg" alt="Insider box cover" caption="Collect and trade resources to build up the island of Catan in this modern classic. (Description from BoardGameGeek)" width="75%" %}
 
 #### Overview
 <html>
