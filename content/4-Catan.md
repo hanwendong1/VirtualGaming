@@ -3,7 +3,7 @@ title: Catan
 nav: true
 ---
 
-{% include figure.html img="insider.jpg" alt="Insider box cover" caption="Collect and trade resources to build up the island of Catan in this modern classic. (Description from BoardGameGeek)" width="75%" %}
+{% include figure.html img="catan.jpg" alt="Catan box cover" caption="Collect and trade resources to build up the island of Catan in this modern classic. (Description from BoardGameGeek)" width="75%" %}
 
 #### Overview
 <html>
@@ -28,24 +28,24 @@ nav: true
    <body>
       <table>
          <tr>
-            <td style="text-align:Left">Authors:</td>
-            <td style="text-align:Left">Kwaji, Daichi Okano, Kito Shinma, ｱｷﾋﾛｲﾄｵ (Akihiro Itoh)</td>
+            <td style="text-align:Left">Author:</td>
+            <td style="text-align:Left">Klaus Teuber</td>
          </tr>
          <tr>
             <td style="text-align:Left">Year:</td>
-            <td style="text-align:Left">2018</td>
+            <td style="text-align:Left">1995</td>
          </tr>
          <tr>
             <td style="text-align:Left">Players:</td>
-            <td style="text-align:Left">4+</td>
+            <td style="text-align:Left">3-4</td>
          </tr>
           <tr>
             <td style="text-align:Left">Time:</td>
-            <td style="text-align:Left">15 min</td>
+            <td style="text-align:Left">60 min</td>
          </tr>
           <tr>
             <td style="text-align:Left">Mechanics:</td>
-            <td style="text-align:Left">Cooperative Game, Team Play, Voting</td>
+            <td style="text-align:Left">Dice Rolling, Trading, Network and Route Building</td>
          </tr>
       </table>
    </body>
