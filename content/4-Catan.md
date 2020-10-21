@@ -90,38 +90,35 @@ Building settlements & cities produce resources. Resources are produced when any
 When a player rolls a 7, they get to place the robber on any tile they wish and steal 1 random card from any of the colors adjacent to that tile. Robber prevents gaining resource from the tile it is on.
 
 **Use Resources**
-Resources could be used in 5 ways;
 
-Build Road: Lumber & Brick
+Resources could be used in 5 ways:
 
-Build Settlement: Lumber, Brick, Wool, Grain
-
-Build City: Grainx2, Orex3
-
-Buy Development Card: Wool, Grain, Ore
-
-Trade with other players
+- Build Road: Lumber & Brick
+- Build Settlement: Lumber, Brick, Wool, Grain
+- Build City: Grainx2, Orex3
+- Buy Development Card: Wool, Grain, Ore
+- Trade with other players
 
 **Development Cards**
-Knight: Place robber in any tile and steal 1 card from an adjacent tile.
 
-Year of Plenty: Take 2 cards you want from bank.
-
-Road Building: Build 2 roads.
-
-Monopoly: Steal all instances of a single type of card from every player.
-
-Victory Point: Gain 1 victory point.
+- Knight: Place robber in any tile and steal 1 card from an adjacent tile.
+- Year of Plenty: Take 2 cards you want from bank.
+- Road Building: Build 2 roads.
+- Monopoly: Steal all instances of a single type of card from every player.
+- Victory Point: Gain 1 victory point.
 
 **Trade**
+
 Bank: On default you can give 4 of the same type of card to obtain 1 of any other type.
 
 Bank with Ports: If you have a settlement or city near a port you automatically use that ports specialty. If you have 3:1 it means that you can trade 3 of the same type of card to obtain 1 of any other type. If you have 2:1, then you can trade 2 of the corresponding type to obtain 1 of any other card.
 
 **Longest Road**
+
 The player with the longest consecutive road earns 2 victory points. A minimum of 5 consecutive roads need to be placed in order to get this bonus.
 
 **Largest Army**
+
 The player to use the most amount of Knight cards earns 2 victory points. A minimum of 3 Knight cards needs to be used in order to get this bonus.
 
 
