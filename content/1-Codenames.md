@@ -61,8 +61,8 @@ The teams compete to see who can make contact with all of their agents first. Sp
 Codenames: win or lose, it’s fun to figure out the clues.
 
 <div style="text-align: center;">
-<a class="btn btn-warning" href="https://codenames.game/" role="button">Play Codenames Online!</a>
-<a class="btn btn-warning" href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9fdab552-f314-41d0-91c1-e37e4a7efae0" role="button">Official Game Rules</a>
+<a class="btn btn-warning" href="https://codenames.game/" role="button" target="_blank">Play Codenames Online!</a>
+<a class="btn btn-warning" href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9fdab552-f314-41d0-91c1-e37e4a7efae0" role="button" target="_blank">Official Game Rules</a>
 </div>                 
 
 #### Goal
