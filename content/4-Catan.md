@@ -82,7 +82,7 @@ Longest Road or Larget Army = 2 VP
 
 On your turn, you will roll two dice. The number rolled determines which terrain hexes produce resources for all players. Then, you can build roads, settlements, and cities, buy development cards, or trade with other players.
 
-*Produce Resource*
+**Produce Resource**
 Building settlements & cities produce resources. Resources are produced when any player does a dice roll. Whomever has a settlement or a city in the border of the dice number will receive the resource shown in the tile. Settlements produce 1 resource, cities produce 2 resources.
 
 Rolling 7 & Robber
