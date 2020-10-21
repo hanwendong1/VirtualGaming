@@ -60,7 +60,7 @@ While communicating to others you have to find the right answers to a quiz and a
 The Insider will do everything to hide their identity while misleading the others.
 
 <div style="text-align: center;">
-<a class="btn btn-warning" href="https://colonist.io/" role="button">Play Catan Online!</a>
+<a class="btn btn-warning" href="https://colonist.io/" role="button" target="_blank">Play Catan Online!</a>
 <a class="btn btn-warning" href="https://www.catan.com/files/downloads/catan_base_rules_2020_200707.pdf" role="button">Official Game Rules</a>
 </div>                 
 
