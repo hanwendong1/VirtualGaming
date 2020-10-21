@@ -63,8 +63,8 @@ Choose your clue without coordinating with each other and be original so as not 
 At the end of the game, tally your score based on the number of Mystery words found.
 
 <div style="text-align: center;">
-<a class="btn btn-warning" href="https://oneword.games/" role="button">Play Just One Online!</a>
-<a class="btn btn-warning" href="https://justone-the-game.com/files/rules/JustOne-Rules-EN.pdf" role="button">Official Game Rules</a>
+<a class="btn btn-warning" href="https://oneword.games/" role="button" target="_blank">Play Just One Online!</a>
+<a class="btn btn-warning" href="https://justone-the-game.com/files/rules/JustOne-Rules-EN.pdf" role="button" target="_blank">Official Game Rules</a>
 </div>                 
 
 #### Goal
