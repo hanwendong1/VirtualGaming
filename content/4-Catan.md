@@ -68,10 +68,10 @@ The Insider will do everything to hide their identity while misleading the other
 
 Be the first player to acquire 10 victory points on your turn!
 
--Settlement = 1 VP 
--City = 2 VP 
--VP card = 1 VP 
--Longest Road or Larget Army = 2 VP
+- Settlement = 1 VP 
+- City = 2 VP 
+- VP card = 1 VP 
+- Longest Road or Larget Army = 2 VP
 
 #### SETUP
 1. Log in to the site
