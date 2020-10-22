@@ -64,7 +64,7 @@ In this game, you will roll dice, collect resources, trade with other players, g
 
 Be the first player to acquire 10 victory points on your turn!
 
-Here's how to gain victory points:
+Ways to score victory points:
 - Settlement = 1 VP 
 - City = 2 VP 
 - VP card = 1 VP 
@@ -74,7 +74,7 @@ Here's how to gain victory points:
 1. Log in to the site
 2. Join the newly created designated room
 3. Each player begins the game by placing one settlement and one connecting road, then another settlement and another connecting road in reverse turn order.
-4. Receive the resources in the terrain hexes adjacent to your second settlement. 
+4. Receive the resources produced by the terrain hexes bordering your second settlement. 
 
 #### GAMEPLAY
 
@@ -92,15 +92,15 @@ The dots (pips) below the numbers represent the likelihood of the number being r
 
 {% include figure.html img="Example.png" alt="An example turn" caption="An example turn" width="75%" %}
 
-In this example, a 10 was rolled. Yellow has one city next to the "10" pasture and two cities next to the "10" mountain, so they would receive 2 wools and 4 ores. Red has one city and one settlement next to the "10" pasture, so they would receive 3 wools.
+In this example, a 10 was rolled. Yellow has one city bordering the "10" pasture and two cities bordering the "10" mountain, so they would receive 2 wools and 4 ores. Red has one city and one settlement bordering the "10" pasture, so they would receive 3 wools.
 
 **Rolling 7 & Robber**
 
-When a player rolls a 7, they get to place the robber on any tile they wish and steal 1 random card from any of the colors adjacent to that tile. Robber prevents gaining resource from the tile it is on.
+When a player rolls a 7, they get to place the robber on any tile they wish and steal 1 random card from any of the colors adjacent to that tile. The Robber will cover the number and prevent resource production on that tile.
 
 **Use Resources**
 
-Resources could be used to build Road, Settlement, City, and buy Development Card.
+Resources can be used to build Road, Settlement, City, and buy Development Card.
 
 {% include figure.html img="resources.png" alt="Resources costs for buying and building" caption="Resources costs for buying and building" width="75%" %}
 
@@ -124,9 +124,9 @@ Development cards cannot be traded or stole. You may only play 1 development car
 
 You can trade with other players. Make them an offer that they cannot refuse!
 
-Bank: On default you can give 4 of the same type of card to obtain 1 of any other type.
+Bank: You can give 4 of the same type of resource card to obtain 1 of any other type.
 
-Bank with Ports: If you have a settlement or city near a port you automatically use that ports specialty. If you have 3:1 it means that you can trade 3 of the same type of card to obtain 1 of any other type. If you have 2:1, then you can trade 2 of the corresponding type to obtain 1 of any other card.
+Bank with Ports: If you have a settlement or city near a port, you can use that port's specialty. If you have 3:1 it means that you can trade 3 of the same type of card to obtain 1 of any other type. If you have 2:1, then you can trade 2 of the corresponding type to obtain 1 of any other card.
 
 **Longest Road**
 
@@ -137,4 +137,4 @@ The player with the longest contiguous road earns 2 victory points. A minimum of
 The player to use the most amount of Knight cards earns 2 victory points. A minimum of 3 Knight cards needs to be used in order to get this bonus. The largest army may be overtaken when another player builds a larger army.
 
 #### GAME END
-The game ends when the first player acquired 10 victory points on their turn wins the game.
+The game ends when one player acquires 10 victory points on their turn wins the game.
