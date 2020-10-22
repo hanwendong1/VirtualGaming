@@ -53,11 +53,7 @@ nav: true
    </p>
 </html>
 #### Description
-"Insider" combines two fun components: finding the answer to a quiz and revealing the Insider. 
-
-While communicating to others you have to find the right answers to a quiz and also find the "Insider" that is manipulating the discussion. 
-
-The Insider will do everything to hide their identity while misleading the others.
+In this game, you will roll dice, collect resources, trade with other players, grow your settlement until you have enough points to declare victory!
 
 <div style="text-align: center;">
 <a class="btn btn-warning" href="https://colonist.io/" role="button" target="_blank">Play Catan Online!</a>
@@ -75,22 +71,24 @@ Be the first player to acquire 10 victory points on your turn!
 
 #### SETUP
 1. Log in to the site
-2. Enter a player name 
+2. Join the newly created designated room
 3. You begin the game by placing one settlement and one connecting road, then another settlement and another connecting road.
 4. Receive the resources in the terrain hexes adjacent to your second settlement. 
 
 #### GAMEPLAY
 
-On your turn, you will roll two dice. The number rolled determines which terrain hexes produce resources for all players. Then, you can build roads, settlements, and cities, buy development cards, or trade with other players.
-
+On your turn, you will roll two dice. The number rolled determines which terrain hexes produce resources for all players. 
 
 {% include figure.html img="terrains.png" alt="Terrain types and the resources they produce" caption="Terrain types and the resources they produce" width="75%" %}
 
+Then, you can build roads, settlements, and cities, buy development cards, or trade with other players.
 
 **Produce Resource**
+
 Building settlements & cities produce resources. Resources are produced when any player does a dice roll. Whomever has a settlement or a city in the border of the dice number will receive the resource shown in the tile. Settlements produce 1 resource, cities produce 2 resources.
 
 **Rolling 7 & Robber**
+
 When a player rolls a 7, they get to place the robber on any tile they wish and steal 1 random card from any of the colors adjacent to that tile. Robber prevents gaining resource from the tile it is on.
 
 **Use Resources**
