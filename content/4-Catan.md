@@ -137,4 +137,4 @@ The player with the longest contiguous road earns 2 victory points. A minimum of
 The player to use the most amount of Knight cards earns 2 victory points. A minimum of 3 Knight cards needs to be used in order to get this bonus. The largest army may be overtaken when another player builds a larger army.
 
 #### GAME END
-The game ends when one player acquires 10 victory points on their turn wins the game.
+The player who acquires 10 victory points on their turn wins the game.
