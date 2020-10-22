@@ -126,11 +126,11 @@ Bank with Ports: If you have a settlement or city near a port you automatically 
 
 **Longest Road**
 
-The player with the longest consecutive road earns 2 victory points. A minimum of 5 consecutive roads need to be placed in order to get this bonus.
+The player with the longest contiguous road earns 2 victory points. A minimum of 5 consecutive roads need to be placed in order to get this bonus. The Longest Road may be overtaken when another player builds a longer road.
 
 **Largest Army**
 
-The player to use the most amount of Knight cards earns 2 victory points. A minimum of 3 Knight cards needs to be used in order to get this bonus.
+The player to use the most amount of Knight cards earns 2 victory points. A minimum of 3 Knight cards needs to be used in order to get this bonus. The largest army may be overtaken when another player builds a larger army.
 
 #### GAME END
 The game ends when the first player acquired 10 victory points on their turn wins the game.
