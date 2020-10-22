@@ -84,7 +84,7 @@ Be the first player to acquire 10 victory points on your turn!
 On your turn, you will roll two dice. The number rolled determines which terrain hexes produce resources for all players. Then, you can build roads, settlements, and cities, buy development cards, or trade with other players.
 
 
-{% include figure.html img="terrains.png" alt="Terrain types and the resources they produce" caption="Terrain types and the resources they produce." width="75%" %}
+{% include figure.html img="terrains.png" alt="Terrain types and the resources they produce" caption="Terrain types and the resources they produce" width="75%" %}
 
 
 **Produce Resource**
@@ -95,23 +95,20 @@ When a player rolls a 7, they get to place the robber on any tile they wish and 
 
 **Use Resources**
 
-Resources could be used in 5 ways:
+Resources could be used to build Road, Settlement, City, and buy Development Card.
 
-- Build Road: Lumber & Brick
-- Build Settlement: Lumber, Brick, Wool, Grain
-- Build City: Grainx2, Orex3
-- Buy Development Card: Wool, Grain, Ore
-- Trade with other players
+{% include figure.html img="resources.png" alt="Resources costs for buying and building" caption="Resources costs for buying and building" width="75%" %}
 
-**Development Cards**
+**(25) Development Cards**
 
-- Knight: Place robber in any tile and steal 1 card from an adjacent tile.
-- Year of Plenty: Take 2 cards you want from bank.
-- Road Building: Build 2 roads.
-- Monopoly: Steal all instances of a single type of card from every player.
-- Victory Point: Gain 1 victory point.
+- (14) Knight: Place robber in any tile and steal 1 card from an adjacent tile.
+- (2) Year of Plenty: Take 2 cards you want from bank.
+- (2) Road Building: Build 2 roads.
+- (2) Monopoly: Steal all instances of a single type of card from every player.
+- (5) Victory Point: Gain 1 victory point.
 
 **Trade**
+You can trade with other players. Make them an offer that they cannot refuse!
 
 Bank: On default you can give 4 of the same type of card to obtain 1 of any other type.
 
