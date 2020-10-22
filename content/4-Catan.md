@@ -53,7 +53,7 @@ nav: true
    </p>
 </html>
 #### Description
-In this game, you will roll dice, collect resources, trade with other players, grow your settlement until you have enough points to declare victory!
+In this game, you will roll dice, collect resources, trade with other players, grow your settlement until your territory becomes the largest and most glorious in Catan!
 
 <div style="text-align: center;">
 <a class="btn btn-warning" href="https://colonist.io/" role="button" target="_blank">Play Catan Online!</a>
@@ -87,6 +87,12 @@ Then, you can build roads, settlements, and cities, buy development cards, or tr
 
 Building settlements & cities produce resources. Resources are produced when any player does a dice roll. Whomever has a settlement or a city in the border of the dice number will receive the resource shown in the tile. Settlements produce 1 resource, cities produce 2 resources.
 
+The dots (pips) below the numbers represent the likelihood of the number being rolled. Statistically, 6 and 8 are more likely to be rolled than 5 and 9, for instance.
+
+{% include figure.html img="Example.png" alt="An example turn" caption="An example turn" width="75%" %}
+
+In this example, a 10 was rolled. Yellow has one city next to the "10" pasture and two cities next to the "10" mountain, so they would receive 2 wools and 4 ores. Red has one city and one settlement next to the "10" pasture, so they would receive 3 wools.
+
 **Rolling 7 & Robber**
 
 When a player rolls a 7, they get to place the robber on any tile they wish and steal 1 random card from any of the colors adjacent to that tile. Robber prevents gaining resource from the tile it is on.
@@ -97,15 +103,19 @@ Resources could be used to build Road, Settlement, City, and buy Development Car
 
 {% include figure.html img="resources.png" alt="Resources costs for buying and building" caption="Resources costs for buying and building" width="75%" %}
 
-**(25) Development Cards**
+{% capture text %}Important: You can only build a new settlement on an unoccupied intersection if you have a road leading to that intersection and the nearest settlement is at least two intersections away.
+{% endcapture %} {% include alert.md text=text color="warning" %}
 
-- (14) Knight: Place robber in any tile and steal 1 card from an adjacent tile.
-- (2) Year of Plenty: Take 2 cards you want from bank.
-- (2) Road Building: Build 2 roads.
-- (2) Monopoly: Steal all instances of a single type of card from every player.
-- (5) Victory Point: Gain 1 victory point.
+**Development Cards (25)**
+
+- Knight (14): Place robber in any tile and steal 1 card from an adjacent tile.
+- Year of Plenty (2): Take 2 cards you want from bank.
+- Road Building (2): Build 2 roads.
+- Monopoly (2): Steal all instances of a single type of card from every player.
+- Victory Point (5): Gain 1 victory point.
 
 **Trade**
+
 You can trade with other players. Make them an offer that they cannot refuse!
 
 Bank: On default you can give 4 of the same type of card to obtain 1 of any other type.
@@ -120,37 +130,5 @@ The player with the longest consecutive road earns 2 victory points. A minimum o
 
 The player to use the most amount of Knight cards earns 2 victory points. A minimum of 3 Knight cards needs to be used in order to get this bonus.
 
-
-{% capture text %}
-"Is it an animal?" - "No"
-
-"Was it existent 100 years ago?" - "I don't know"
-
-"Can I buy it at the supermarket?" - "Yes"
-{% endcapture %}
-{% include card.md text=text header="Example questions" img="insider_example.jpg" %}
-
-The players have to find the answer by asking many questions. Any player can ask any number of questions. They only have 5 minutes to find it though. 
-
-The Insider tries to stay incognito and controlls the others asking questions that will help them to get closer to the right answer. If someone notices who he/she is, he/she will lose, so it is very important to stay unrecognized.
-
-{% capture text %}Tip for the Insider: You know the answer but you don't want to reveal yourself, so use your knowledge to subtly guide the conversation with the right questions without being too obvious about it.
-{% endcapture %} {% include alert.md text=text color="warning" %}
-
 #### GAME END
-The game ends if the answer is not found, then everyone loses. 
-
-If the answer is found, however, then the timer is flipped. This elapsed time is now used to try to identify the Insider. Everyone (including the Master) discusses and tries to find the insider among them. Everyone votes for the person they think the player who guessed the word is the Insider or not. Master decides the tiebreaker.
-
-This can have four possible outcomes:
-- Majority thumbs up
-  - If the guesser is Insider, Commons and Master win. 
-  - If the guesser is not the Insider, Insider wins. 
-- Majority thumbs down
-  - If the guesser is Insider, Insider wins. 
-  - If the guesser isn't Insider, a second voting occurs.
-
-Second voting: Vote for the person who players think the Insider is. The Master decides the tiebreaker.
-This can have two possible outcomes:
-- If the Insider is accused, Master and Commons win.  
-- If the Insider is not accused, Insider wins.  
+The game ends when the first player acquired 10 victory points on their turn wins the game.
