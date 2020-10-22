@@ -64,6 +64,7 @@ In this game, you will roll dice, collect resources, trade with other players, g
 
 Be the first player to acquire 10 victory points on your turn!
 
+Here's how to gain victory points:
 - Settlement = 1 VP 
 - City = 2 VP 
 - VP card = 1 VP 
@@ -72,7 +73,7 @@ Be the first player to acquire 10 victory points on your turn!
 #### SETUP
 1. Log in to the site
 2. Join the newly created designated room
-3. You begin the game by placing one settlement and one connecting road, then another settlement and another connecting road.
+3. Each player begins the game by placing one settlement and one connecting road, then another settlement and another connecting road in reverse turn order.
 4. Receive the resources in the terrain hexes adjacent to your second settlement. 
 
 #### GAMEPLAY
@@ -108,6 +109,7 @@ Resources could be used to build Road, Settlement, City, and buy Development Car
 
 **Development Cards (25)**
 
+Development cards cannot be traded or stole. You may only play 1 development card during your turn. You can play the card at any time, even before you roll the dice. You may not, however, play a card that you bought during the same turn. Victory point cards are only revealed when the game is over, either you or an opponent reaches 10 or more victory points and declares victory.
 - Knight (14): Place robber in any tile and steal 1 card from an adjacent tile.
 - Year of Plenty (2): Take 2 cards you want from bank.
 - Road Building (2): Build 2 roads.
