@@ -86,10 +86,7 @@ Then, you can build roads, settlements, and cities, buy development cards, or tr
 
 **Produce Resource**
 
-Building settlements & cities produce resources. Resources are produced when any player does a dice roll. Whomever has a settlement or a city in the border of the dice number will receive the resource shown in the tile. Settlements produce 1 resource, cities produce 2 resources.
-
-{% capture text %}Important: Cities cannot be built directly. You can only upgrade an existing settlement to a city. 
-{% endcapture %} {% include alert.md text=text color="warning" %}
+Building settlements and cities produce resources. Resources are produced when any player does a dice roll. Whomever has a settlement or a city in the border of the dice number will receive the resource shown in the tile. Settlements produce 1 resource, cities produce 2 resources.
 
 The dots (pips) below the numbers represent the likelihood of the number being rolled. Statistically, 6 and 8 are more likely to be rolled than 5 and 9, for instance.
 
@@ -107,8 +104,12 @@ Resources could be used to build Road, Settlement, City, and buy Development Car
 
 {% include figure.html img="resources.png" alt="Resources costs for buying and building" caption="Resources costs for buying and building" width="75%" %}
 
-{% capture text %}Important: You can only build a new settlement on an unoccupied intersection if you have a road leading to that intersection and the nearest settlement is at least two intersections away. 
-{% endcapture %} {% include alert.md text=text color="warning" %}
+Building rules:
+
+- Roads: Only 1 road may be built on each path. 
+- Settlements: You can only build a new settlement on an unoccupied intersection if you have a road leading to that intersection and the nearest settlement is at least two intersections away. 
+- Cities: Cities cannot be built directly. You can only upgrade an existing settlement to a city. 
+
 
 **Development Cards (25)**
 
