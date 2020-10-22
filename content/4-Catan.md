@@ -111,9 +111,9 @@ Resources could be used to build Road, Settlement, City, and buy Development Car
 
 Development cards cannot be traded or stole. You may only play 1 development card during your turn. You can play the card at any time, even before you roll the dice. You may not, however, play a card that you bought during the same turn. Victory point cards are only revealed when the game is over, either you or an opponent reaches 10 or more victory points and declares victory.
 - Knight (14): Place robber in any tile and steal 1 card from an adjacent tile.
-- Year of Plenty (2): Take 2 cards you want from bank.
-- Road Building (2): Build 2 roads.
-- Monopoly (2): Steal all instances of a single type of card from every player.
+- Year of Plenty (2): Take any 2 resource cards you want from the bank.
+- Road Building (2): Build 2 free roads.
+- Monopoly (2): Steal all resources of a single type from every player.
 - Victory Point (5): Gain 1 victory point.
 
 **Trade**
