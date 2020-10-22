@@ -71,7 +71,7 @@ Ways to score victory points:
 - Longest Road or Larget Army = 2 VP
 
 #### SETUP
-1. Log in to the site
+1. One player creates a game and shares the game room link
 2. Join the newly created designated room
 3. Each player begins the game by placing one settlement and one connecting road, then another settlement and another connecting road in reverse turn order.
 4. Receive the resources produced by the terrain hexes bordering your second settlement. 
@@ -96,7 +96,7 @@ In this example, a 10 was rolled. Yellow has one city bordering the "10" pasture
 
 **Rolling 7 & Robber**
 
-When a player rolls a 7, they get to place the robber on any tile they wish and steal 1 random card from any of the colors adjacent to that tile. The Robber will cover the number and prevent resource production on that tile.
+When a player rolls a 7, they get to place the robber on any tile they wish and take a random resource card from a player with a bordering settlement or city. The Robber will cover the number and prevent resource production on that tile. Also, players who have more than 7 cards in hand when a robber is rolled have to discard half (rounded down) of their resources cards to the bank.
 
 **Use Resources**
 
@@ -113,7 +113,7 @@ Building rules:
 
 **Development Cards (25)**
 
-Development cards cannot be traded or stole. You may only play 1 development card during your turn. You can play the card at any time, even before you roll the dice. You may not, however, play a card that you bought during the same turn. Victory point cards are only revealed when the game is over, either you or an opponent reaches 10 or more victory points and declares victory.
+Development cards cannot be traded or stolen. You may only play 1 development card during your turn. You may not play a card that you bought during the same turn. Victory point cards are only revealed when the game is over, either you or an opponent reaches 10 or more victory points and declares victory.
 - Knight (14): Place robber in any tile and steal 1 card from an adjacent tile.
 - Year of Plenty (2): Take any 2 resource cards you want from the bank.
 - Road Building (2): Build 2 free roads.
@@ -122,7 +122,7 @@ Development cards cannot be traded or stole. You may only play 1 development car
 
 **Trade**
 
-You can trade with other players. Make them an offer that they cannot refuse!
+You can trade with other players, but you can only propose trades during your turns. On other players' turns, you can, however, accept or decline a trade they offer to you. 
 
 Bank: You can give 4 of the same type of resource card to obtain 1 of any other type.
 
