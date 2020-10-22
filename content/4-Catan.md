@@ -106,7 +106,7 @@ Resources could be used to build Road, Settlement, City, and buy Development Car
 
 Building rules:
 
-- Roads: Only 1 road may be built on each path. 
+- Roads: Only 1 road may be built on each path. A new road must be connected to your existing road, settlement, or city on the board.
 - Settlements: You can only build a new settlement on an unoccupied intersection if you have a road leading to that intersection and the nearest settlement is at least two intersections away. 
 - Cities: Cities cannot be built directly. You can only upgrade an existing settlement to a city. 
 
