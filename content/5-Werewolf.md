@@ -57,7 +57,7 @@ In this game, you will roll dice, collect resources, trade with other players, g
 
 <div style="text-align: center;">
 <a class="btn btn-warning" href="https://colonist.io/" role="button" target="_blank">Play One Night Ultimate Werewolf Online!</a>
-<a class="btn btn-warning" href="https://cdn.shopify.com/s/files/1/0740/4855/files/ONUW_rules-updated_for_BGG.pdf" role="button">Official Game Rules</a>
+<a class="btn btn-warning" href="https://cdn.shopify.com/s/files/1/0740/4855/files/ONUW_rules-updated_for_BGG.pdf" role="button" target="_blank">Official Game Rules</a>
 </div>                 
 
 #### Goal
