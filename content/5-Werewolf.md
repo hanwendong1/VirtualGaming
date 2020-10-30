@@ -141,21 +141,23 @@ The online version of the game also includes several roles from One Night Ultima
 
 During the Night Phase, the players are woken in the order of their roles (see below for order) and complete the action that is part of their role. The online version of the game will go through the role order and exclude any roles not chosen to be part of the gameplay: 
 
-1.	Doppelganger
-2.	Werewolves
-3.	Alpha Wolf
-4.	Mystic Wolf
-5.	Minion
-6.	Masons
-7.	Seer
-8.	Apprentice Seer
-9.	Paranormal Investigator
-10. Robber
-11. Witch
-12. Troublemaker
-13. Drunk
-14. Insomniac
-15. Doppelganger-Insomniac
+1.	Copycat
+2.	Doppelganger
+3.	Werewolves
+4.	Alpha Wolf
+5.	Mystic Wolf
+6.	Minion
+7.	Masons
+8.	Seer
+9.	Apprentice Seer
+10. Paranormal Investigator
+11. Robber
+12. Witch
+13. Troublemaker
+14. Drunk
+15. Insomniac
+16. Doppelganger-Insomniac
+
 
 The roles of Villager, Tanner, Hunter, Bodyguard, and Dream Wolf do not wake up during the Night Phase.
 
