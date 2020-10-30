@@ -117,7 +117,7 @@ At the beginning of gameplay, each player will be randomly assigned a role. Thre
 - 7 players: Werewolf, Werewolf, Minion, Seer, Robber, Troublemaker, Drunk, Insomniac, Hunter, Tanner
 - 8 players: Werewolf, Werewolf, Minion, Mason, Mason, Seer, Robber, Troublemaker, Drunk, Insomniac, Tanner
 
-The online version of the game also includes several roles from One Night Ultimate Werewolf Daybreak expansion. Those roles have this symbol next to them: ![image](https://user-images.githubusercontent.com/67883371/97648213-6c611500-1a11-11eb-993d-2ff3d0fc2dfa.png). It is recommended that you only include these roles in your game after you’ve become familiar with the roles in the base game.
+The online version of the game also includes several roles from One Night Ultimate Werewolf Daybreak expansion and one role from One Night Ultimate Vampire. Those roles have these symbol next to them: ![image](https://user-images.githubusercontent.com/67883371/97648213-6c611500-1a11-11eb-993d-2ff3d0fc2dfa.png) and ![image](https://user-images.githubusercontent.com/67883371/97740660-da075280-1a9e-11eb-91d5-0dd3827fdcaa.png). It is recommended that you only include these roles in your game after you’ve become familiar with the roles in the base game.
 
 <span style="text-decoration: underline">Alpha Wolf</span>: When playing with an Alpha Wolf, an additional werewolf card is placed in the center but separate. At night, the Alpha Wolf wakes with the other werewolves. Afterwards, the Alpha Werewolf wakes up again and must exchange the werewolf card in the center with any other player’s card that is not their own or belonging to another werewolf, without looking at either card. The Alpha Werewolf is on the werewolf team.
 
@@ -132,6 +132,8 @@ The online version of the game also includes several roles from One Night Ultima
 <span style="text-decoration: underline">Dream Wolf</span>: The Dream Wolf does not wake up with the other werewolves though the other werewolves know that the Dream Wolf is a werewolf. If playing with the Minion, the Minion is also informed of the Dream Wolf. The Dream Wolf is on the werewolf team. 
 
 <span style="text-decoration: underline">Bodyguard</span>: When everyone votes, the player the Bodyguard chooses cannot be killed. If that player had received the most votes, the player with the next most votes (up to two) is killed. Recommended for five or more players. The Bodyguard is on the village team.
+
+<span style="text-decoration: underline">Copycat</span>: The Copycat wakes up and must look at one of the center cards. From that point on in the game, the Copycat is the role they viewed and wakes up if the new role is called. The Copycat is on the team of their new role. 
 
 {% include figure.html img="Daybreak.png" alt="Image of Daybreak Role Cards" caption="Daybreak Role Cards; credit: solvingme.com" width="100%" %}
 
