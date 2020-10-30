@@ -107,6 +107,7 @@ At the beginning of gameplay, each player will be randomly assigned a role. Thre
 
 <span style="text-decoration: underline">Doppelganger</span>: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role.  
 
+{% include figure.html img="original.png" alt="Image of Role Cards" caption="Role Cards; credit: solvingme.com" width="100%" %}
 
 **Suggested Roles**
 
