@@ -82,6 +82,8 @@ At the beginning of gameplay, each player will be randomly assigned a role. Thre
 
 {% include figure.html img="setup.jpg" alt="Image of what in-person set up looks like" caption="What in-person set up looks like; credit: What's Eric Playing?" width="75%" %}
 
+text here <span style="text-decoration: underline">Werewolf</span> other text
+
 Werewolf: At night, all Werewolves open their eyes and look for other werewolves. If no one else opens their eyes, the other Werewolves are in the center.  Werewolves are on the werewolf team.
 
 Minion: The Minion sees who the Were-wolves are. The Werewolves don’t know who the Minion is. If the Minion dies and no Werewolves die, the Werewolves (and the Minion) win.  If no players are Werewolves, the Minion wins as long as one other player (not the Minion) dies. The Minion is on the werewolf team.
