@@ -105,7 +105,7 @@ At the beginning of gameplay, each player will be randomly assigned a role. Thre
 
 <span style="text-decoration: underline">Tanner</span>: The Tanner hates his job so much that he wants to die. The Tanner only wins if he dies.  If the Tanner dies and no Werewolves die, the Werewolves do not win.  If the Tanner dies and a Werewolf also dies, the village team wins too. The Tanner is considered a member of the village (but is not on their team), so if the Tanner dies when all werewolves are in the center, the village team loses. The Tanner is not on the werewolf or the villager team.
 
-<span style="text-decoration: underline">Doppelganger</span>: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role. 
+<span style="text-decoration: underline">Doppelganger</span>: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role.  
 
 {% include figure.html img="original.png" alt="Image of Role Cards" caption="Role Cards; credit: solvingme.com" width="100%" %}
 
