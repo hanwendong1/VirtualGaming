@@ -76,37 +76,36 @@ The villagers’ goal is to identify who among them is a werewolf and kill them 
 
 #### GAMEPLAY
 
+
 **Roles & Powers**
 
 At the beginning of gameplay, each player will be randomly assigned a role. Three extra roles are not assigned to a player. In a physical game, these roles would be placed facedown in the center of the table. 
 
 {% include figure.html img="setup.jpg" alt="Image of what in-person set up looks like" caption="What in-person set up looks like; credit: What's Eric Playing?" width="75%" %}
 
-text here <span style="text-decoration: underline">Werewolf</span> other text
+<span style="text-decoration: underline">Werewolf</span>: At night, all Werewolves open their eyes and look for other werewolves. If no one else opens their eyes, the other Werewolves are in the center.  Werewolves are on the werewolf team.
 
-Werewolf: At night, all Werewolves open their eyes and look for other werewolves. If no one else opens their eyes, the other Werewolves are in the center.  Werewolves are on the werewolf team.
+<span style="text-decoration: underline">Minion</span>: The Minion sees who the Were-wolves are. The Werewolves don’t know who the Minion is. If the Minion dies and no Werewolves die, the Werewolves (and the Minion) win.  If no players are Werewolves, the Minion wins as long as one other player (not the Minion) dies. The Minion is on the werewolf team.
 
-Minion: The Minion sees who the Were-wolves are. The Werewolves don’t know who the Minion is. If the Minion dies and no Werewolves die, the Werewolves (and the Minion) win.  If no players are Werewolves, the Minion wins as long as one other player (not the Minion) dies. The Minion is on the werewolf team.
+<span style="text-decoration: underline">Mason</span>: When using the Masons always put both Masons in the game. The Mason wakes up at night and looks for the other Mason.  If the Mason doesn’t see another Mason, it means the other Mason card is in the center. Masons are on the village team.
 
-Mason: When using the Masons always put both Masons in the game. The Mason wakes up at night and looks for the other Mason.  If the Mason doesn’t see another Mason, it means the other Mason card is in the center. Masons are on the village team.
+<span style="text-decoration: underline">Villager</span>: The Villager has no special abilities but is definitely not a werewolf. Players may often claim to be a Villager. The Villager is on the village team.
 
-Villager: The Villager has no special abilities but is definitely not a werewolf. Players may often claim to be a Villager. The Villager is on the village team.
+<span style="text-decoration: underline">Seer</span>: At night, the Seer may look either at one other player’s card or at two of the center cards but does not move them. The Seer is on the village team.
 
-Seer: At night, the Seer may look either at one other player’s card or at two of the center cards but does not move them. The Seer is on the village team.
+<span style="text-decoration: underline">Robber</span>: At night, the Robber may choose to rob a card from another player and place his Robber card where the other card was. Then the Robber looks at his new card. The player who receives the Robber   card is on the village team. The Robber is on the team of the card he takes; however, he does not do the action of his new role at night.
 
-Robber: At night, the Robber may choose to rob a card from another player and place his Robber card where the other card was. Then the Robber looks at his new card. The player who receives the Robber   card is on the village team. The Robber is on the team of the card he takes; however, he does not do the action of his new role at night.
+<span style="text-decoration: underline">Troublemaker</span>: At night, the Troublemaker may switch the cards of two other players without looking at those cards. The players who receive a different card are now the role (and team) of their new card, even though they don’t know what role that is until the end of the game. The Troublemaker is on the village team.
 
-Troublemaker: At night, the Troublemaker may switch the cards of two other players without looking at those cards. The players who receive a different card are now the role (and team) of their new card, even though they don’t know what role that is until the end of the game. The Troublemaker is on the village team.
+<span style="text-decoration: underline">Insomniac</span>: The Insomniac wakes up and looks at her card (to see if it has changed). Only use the Insomniac if the Robber and/or the Troublemaker are in the game. The Insomniac is on the village team.
 
-Insomniac: The Insomniac wakes up and looks at her card (to see if it has changed). Only use the Insomniac if the Robber and/or the Troublemaker are in the game. The Insomniac is on the village team.
+<span style="text-decoration: underline">Drunk</span>: The Drunk is so drunk that he doesn’t remember his role.  When it comes time to wake up at night, he must exchange his Drunk card for any card in the center, but he does not look at it. The Drunk is now the new role in front of him (even though he doesn’t know what that new role is) and is on that team.
 
-Drunk: The Drunk is so drunk that he doesn’t remember his role.  When it comes time to wake up at night, he must exchange his Drunk card for any card in the center, but he does not look at it. The Drunk is now the new role in front of him (even though he doesn’t know what that new role is) and is on that team.
+<span style="text-decoration: underline">Hunter</span>: If the Hunter dies, the player he is pointing at dies as well (regardless of how many votes his target receives). The Hunter is on the village team.
 
-Hunter: If the Hunter dies, the player he is pointing at dies as well (regardless of how many votes his target receives). The Hunter is on the village team.
+<span style="text-decoration: underline">Tanner</span>: The Tanner hates his job so much that he wants to die. The Tanner only wins if he dies.  If the Tanner dies and no Werewolves die, the Werewolves do not win.  If the Tanner dies and a Werewolf also dies, the village team wins too. The Tanner is considered a member of the village (but is not on their team), so if the Tanner dies when all werewolves are in the center, the village team loses. The Tanner is not on the werewolf or the villager team.
 
-Tanner: The Tanner hates his job so much that he wants to die. The Tanner only wins if he dies.  If the Tanner dies and no Werewolves die, the Werewolves do not win.  If the Tanner dies and a Werewolf also dies, the village team wins too. The Tanner is considered a member of the village (but is not on their team), so if the Tanner dies when all werewolves are in the center, the village team loses. The Tanner is not on the werewolf or the villager team.
-
-Doppelganger: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role. 
+<span style="text-decoration: underline">Doppelganger</span>: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role. 
 
 {% include figure.html img="Daybreak.png" alt="Image of Daybreak Role Cards" caption="Daybreak Role Cards; credit: solvingme.com" width="100%" %}
 
@@ -120,19 +119,19 @@ Doppelganger: The Doppelganger looks at another player’s card. They take on th
 
 The online version of the game also includes several roles from One Night Ultimate Werewolf Daybreak expansion. Those roles have this symbol next to them: ![image](https://user-images.githubusercontent.com/67883371/97648213-6c611500-1a11-11eb-993d-2ff3d0fc2dfa.png). It is recommended that you only include these roles in your game after you’ve become familiar with the roles in the base game.
 
-Alpha Wolf: When playing with an Alpha Wolf, an additional werewolf card is placed in the center but separate. At night, the Alpha Wolf wakes with the other werewolves. Afterwards, the Alpha Werewolf wakes up again and must exchange the werewolf card in the center with any other player’s card that is not their own or belonging to another werewolf, without looking at either card. The Alpha Werewolf is on the werewolf team.
+<span style="text-decoration: underline">Alpha Wolf</span>: When playing with an Alpha Wolf, an additional werewolf card is placed in the center but separate. At night, the Alpha Wolf wakes with the other werewolves. Afterwards, the Alpha Werewolf wakes up again and must exchange the werewolf card in the center with any other player’s card that is not their own or belonging to another werewolf, without looking at either card. The Alpha Werewolf is on the werewolf team.
 
-Mystic Wolf: The Mystic Wolf wakes with the other werewolves. Afterwards, they Mystic Wolf wakes separately and may look at one other player’s card. The Mystic Wolf is on the werewolf team.
+<span style="text-decoration: underline">Mystic Wolf</span>: The Mystic Wolf wakes with the other werewolves. Afterwards, they Mystic Wolf wakes separately and may look at one other player’s card. The Mystic Wolf is on the werewolf team.
 
-Apprentice Seer: The Apprentice Seer wakes and may look at one of the center cards. The Apprentice Seer is on the village team.
+<span style="text-decoration: underline">Apprentice Seer</span>: The Apprentice Seer wakes and may look at one of the center cards. The Apprentice Seer is on the village team.
 
-Paranormal Investigator: The P.I wakes up and may look at the cards of up to two players, one at a time. If they view a Werewolf or Tanner, they may not view any more cards and they become a werewolf or Tanner, respectively. If the P.I sees the Doppelganger that saw a werewolf, they continue looking. The P.I is on the village team unless they find a werewolf, in which case they join the werewolf team, or if they find a Tanner, in which case they become a Tanner and only win if they die.
+<span style="text-decoration: underline">Paranormal Investigator</span>: The P.I wakes up and may look at the cards of up to two players, one at a time. If they view a Werewolf or Tanner, they may not view any more cards and they become a werewolf or Tanner, respectively. If the P.I sees the Doppelganger that saw a werewolf, they continue looking. The P.I is on the village team unless they find a werewolf, in which case they join the werewolf team, or if they find a Tanner, in which case they become a Tanner and only win if they die.
 
-Witch: The Witch wakes up and may look at one of the center cards. If they do look at a center card, then they must exchange that card with any player’s card (including their own) without looking at it. The Witch is on the village team unless they replace their own card with a card from a different team. 
+<span style="text-decoration: underline">Witch</span>: The Witch wakes up and may look at one of the center cards. If they do look at a center card, then they must exchange that card with any player’s card (including their own) without looking at it. The Witch is on the village team unless they replace their own card with a card from a different team. 
 
-Dream Wolf: The Dream Wolf does not wake up with the other werewolves though the other werewolves know that the Dream Wolf is a werewolf. If playing with the Minion, the Minion is also informed of the Dream Wolf. The Dream Wolf is on the werewolf team. 
+<span style="text-decoration: underline">Dream Wolf</span>: The Dream Wolf does not wake up with the other werewolves though the other werewolves know that the Dream Wolf is a werewolf. If playing with the Minion, the Minion is also informed of the Dream Wolf. The Dream Wolf is on the werewolf team. 
 
-Bodyguard: When everyone votes, the player the Bodyguard chooses cannot be killed. If that player had received the most votes, the player with the next most votes (up to two) is killed. Recommended for five or more players. The Bodyguard is on the village team.
+<span style="text-decoration: underline">Bodyguard</span>: When everyone votes, the player the Bodyguard chooses cannot be killed. If that player had received the most votes, the player with the next most votes (up to two) is killed. Recommended for five or more players. The Bodyguard is on the village team.
 
 **Night Phase**
 
