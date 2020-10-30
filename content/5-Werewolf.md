@@ -106,7 +106,7 @@ Tanner: The Tanner hates his job so much that he wants to die. The Tanner only w
 
 Doppelganger: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role. 
 
-{% include figure.html img="Daybreak.png" alt="Image of Daybreak Role Cards" caption="Daybreak Role Cards; credit: solvingme.com" width="75%" %}
+{% include figure.html img="Daybreak.png" alt="Image of Daybreak Role Cards" caption="Daybreak Role Cards; credit: solvingme.com" width="100%" %}
 
 **Suggested Roles**
 
