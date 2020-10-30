@@ -3,7 +3,7 @@ title: One Night Ultimate Werewolf
 nav: true
 ---
 
-{% include figure.html img="Werewolf.jpg" alt="One Night Ultimate Werewolf box cover" caption="This is no ordinary game of Werewolf as it lasts only one night. Werewolves beware! (Description from BoardGameGeek)" width="75%" %}
+{% include figure.html img="Werewolf.jpg" alt="One Night Ultimate Werewolf box cover" caption="This is no ordinary game of Werewolf as it lasts only one night. Werewolves beware! (Description from BoardGameGeek)" width="75%" %} 
 
 #### Overview
 <html>
