@@ -71,8 +71,8 @@ Ways to score victory points:
 - Longest Road or Larget Army = 2 VP
 
 #### SETUP
-1. One player creates a game and shares the game room link
-2. Join the newly created designated room
+1. One player creates a game and shares the game room link.
+2. Join the newly created designated room.
 3. Each player begins the game by placing one settlement and one connecting road, then another settlement and another connecting road in reverse turn order.
 4. Receive the resources produced by the terrain hexes bordering your second settlement. 
 
