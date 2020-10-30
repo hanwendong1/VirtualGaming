@@ -134,9 +134,7 @@ Bodyguard: When everyone votes, the player the Bodyguard chooses cannot be kille
 
 **Night Phase**
 
-During the Night Phase, the players are woken in the order of their roles (see below for order) and complete the action that is part of their role. The online version of the game will go through the role order and exclude any roles not chosen to be part of the gameplay. 
-
-{% include video-embed.html youtubeid="LiZiujNRYdc?t=2" caption="This video can be played for dramatic background music while players are completing their roles" %}
+During the Night Phase, the players are woken in the order of their roles (see below for order) and complete the action that is part of their role. The online version of the game will go through the role order and exclude any roles not chosen to be part of the gameplay: 
 
 1.	Doppelganger
 2.	Werewolves
@@ -155,6 +153,8 @@ During the Night Phase, the players are woken in the order of their roles (see b
 15. Doppelganger-Insomniac
 
 The roles of Villager, Tanner, Hunter, Bodyguard, and Dream Wolf do not wake up during the Night Phase.
+
+{% include video-embed.html youtubeid="LiZiujNRYdc?t=2" caption="This video can be played for dramatic background music while players are completing their roles" %}
 
 **Day Phase**
 
