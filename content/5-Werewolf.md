@@ -116,7 +116,7 @@ Doppelganger: The Doppelganger looks at another player’s card. They take on th
 - 7 players: Werewolf, Werewolf, Minion, Seer, Robber, Troublemaker, Drunk, Insomniac, Hunter, Tanner
 - 8 players: Werewolf, Werewolf, Minion, Mason, Mason, Seer, Robber, Troublemaker, Drunk, Insomniac, Tanner
 
-The online version of the game also includes several roles from One Night Ultimate Werewolf Daybreak expansion. Those roles have this symbol next to them: . It is recommended that you only include these roles in your game after you’ve become familiar with the roles in the base game.
+The online version of the game also includes several roles from One Night Ultimate Werewolf Daybreak expansion. Those roles have this symbol next to them: ![image](https://user-images.githubusercontent.com/67883371/97648213-6c611500-1a11-11eb-993d-2ff3d0fc2dfa.png). It is recommended that you only include these roles in your game after you’ve become familiar with the roles in the base game.
 
 Alpha Wolf: When playing with an Alpha Wolf, an additional werewolf card is placed in the center but separate. At night, the Alpha Wolf wakes with the other werewolves. Afterwards, the Alpha Werewolf wakes up again and must exchange the werewolf card in the center with any other player’s card that is not their own or belonging to another werewolf, without looking at either card. The Alpha Werewolf is on the werewolf team.
 
