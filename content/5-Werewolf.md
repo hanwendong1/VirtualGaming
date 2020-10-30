@@ -37,7 +37,7 @@ nav: true
          </tr>
          <tr>
             <td style="text-align:Left">Players:</td>
-            <td style="text-align:Left">3-10</td>
+            <td style="text-align:Left">3-21</td>
          </tr>
           <tr>
             <td style="text-align:Left">Time:</td>
