@@ -107,7 +107,7 @@ At the beginning of gameplay, each player will be randomly assigned a role. Thre
 
 <span style="text-decoration: underline">Doppelganger</span>: The Doppelganger looks at another player’s card. They take on the role of that card. They are on the team of their new role. 
 
-{% include figure.html img="Daybreak.png" alt="Image of Daybreak Role Cards" caption="Daybreak Role Cards; credit: solvingme.com" width="100%" %}
+{% include figure.html img="original.png" alt="Image of Role Cards" caption="Role Cards; credit: solvingme.com" width="100%" %}
 
 **Suggested Roles**
 
@@ -132,6 +132,8 @@ The online version of the game also includes several roles from One Night Ultima
 <span style="text-decoration: underline">Dream Wolf</span>: The Dream Wolf does not wake up with the other werewolves though the other werewolves know that the Dream Wolf is a werewolf. If playing with the Minion, the Minion is also informed of the Dream Wolf. The Dream Wolf is on the werewolf team. 
 
 <span style="text-decoration: underline">Bodyguard</span>: When everyone votes, the player the Bodyguard chooses cannot be killed. If that player had received the most votes, the player with the next most votes (up to two) is killed. Recommended for five or more players. The Bodyguard is on the village team.
+
+{% include figure.html img="Daybreak.png" alt="Image of Daybreak Role Cards" caption="Daybreak Role Cards; credit: solvingme.com" width="100%" %}
 
 **Night Phase**
 
