@@ -60,7 +60,7 @@ While communicating to others you have to find the right answers to a quiz and a
 The Insider will do everything to hide their identity while misleading the others.
 
 <div style="text-align: center;">
-<a class="btn btn-warning" href="https://ui-lib-insider.herokuapp.com/" role="button" target="_blank">Play Insider Online!</a>
+<a class="btn btn-warning" href="https://insider.herokuapp.com/" role="button" target="_blank">Play Insider Online!</a>
 <a class="btn btn-warning" href="https://www.ultraboardgames.com/insider/game-rules.php" role="button" target="_blank">Official Game Rules</a>
 </div>                 
 
