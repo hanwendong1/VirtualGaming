@@ -79,9 +79,9 @@ There are 3 roles in this game. The aim of this game is to be the first player t
 5. After the 2nd round, the QM will count down from 3. The artists must then point to who they believe is the fake artist. 
 6. The fake artist must reveal their identity if the fake artist has be pointed to the most. They then must say the correct title of the final artwork in order to earn points.
 
-{% include img="fake_artist_example.jpg" caption="Example of a round" %}
+{% include figure.html img="fake_artist_example.jpg" caption="Example of a round" width="75%" %}
 #### Scoring
-{% include img="Scoring.jpg" caption="How it scores" %}
+{% include figure.html img="Scoring.jpg" caption="How it scores" width="75%" %}
 
 #### GAME END
 The first player to earn 5 points is the winner.
